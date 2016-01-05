@@ -1,4 +1,5 @@
 # This is the document were I learn introductory R.
+# SWC workshop 01-05-2016
 
 x <- 1:10 #an array of integers from 1-10
 y <- x*2
